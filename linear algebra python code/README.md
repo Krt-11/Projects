@@ -26,7 +26,4 @@ MORE INFORMATION: {
 
         Sympy also has many more functions such as matrix airthmetic, inverse calculator, etc. for higher functionality. Here is a link for more information: https://www.sympy.org/en/features.html
 
-
-    TIME COMPLEXITY = O(n^2)
-
 }
