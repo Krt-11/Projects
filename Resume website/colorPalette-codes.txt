@@ -1,11 +1,5 @@
-Your selected colors:
-
-    Text: #ebeae8 (RGB: 235, 234, 232)
-    Background: #0d0d0d (RGB: 13, 13, 13)
-    Primary: #b35319 (RGB: 179, 83, 25)
-    Secondary: #b37325 (RGB: 179, 115, 37)
-    Accent: #304529 (RGB: 48, 69, 41)
-
-Realtime Colors link for selected colors: https://realtimecolors.com/?colors=ebeae8-0d0d0d-b35319-b37325-304529
-
-Thanks for using RealtimeColors.com!
+--text: #dae2e6;
+--background: #2C3E50;
+--primary: #7a1c14;
+--secondary: #616d26;
+--accent: #b59a32;
